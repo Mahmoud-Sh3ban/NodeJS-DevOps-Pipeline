@@ -1,0 +1,20 @@
+{
+    "name": "vote-app",
+    "version": "1.0.0",
+    "description": "Vote for Your Favorite Programming Language",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "jest"
+    },
+    "author": "Mahmoud-Shaaban",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "jest": "^27.0.6",
+      "supertest": "^6.1.3"
+    }
+  }
+  
