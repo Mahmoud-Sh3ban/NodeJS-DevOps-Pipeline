@@ -1,6 +1,6 @@
 # Node.js Application CI/CD Pipeline With Jenkins
 
-![pipline drawio (1)](https://github.com/Mahmoud-Sh3ban/Node.js-App/assets/130512698/df537dfc-a707-409f-a088-d3f0915600ed)
+![pipline drawio (1)](https://github.com/Mahmoud-Sh3ban/NodeJS-DevOps-Pipeline/assets/130512698/215bac82-a00e-42c7-abce-89500c316b4d)
 
 ## Description
 
